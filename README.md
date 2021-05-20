@@ -6,7 +6,7 @@ The ground truth orientation is captured using the vicon and is given in the `vi
 The green line represents the ground truth orientation given by the vicon. The blue line represents the mean of the estimated orientation while the red bounds give the standard deviation from the mean.
 
 ##Dataset 1
-<img src = "https://github.com/vashist123/UFK-orientation-tracking/blob/main/images/with_std_1.png">
+<img src = "https://github.com/vashist123/UFK-orientation-tracking/blob/main/images/with_std_1.png" width="700" height="500">
 
 ##Dataset 2
-<img src = "https://github.com/vashist123/UFK-orientation-tracking/blob/main/images/with_std_2.png">
+<img src = "https://github.com/vashist123/UFK-orientation-tracking/blob/main/images/with_std_2.png" width="700" height="500">
